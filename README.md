@@ -27,3 +27,12 @@ Team NUCLEO 5
 🔹 Thakshila Nirmal
 🔹 Minindu Wijerathne
 🔹 Nadeev Thenuwara
+
+![image alt](https://github.com/BinethGeesara/Autonomous-Robot-SLRC-2025/blob/4842cfc784dcc02e9f140cdeff685e1812fac05c/490317173_1075838957913589_4994344122486557718_n%202.JPG)
+
+![image alt](https://github.com/BinethGeesara/Autonomous-Robot-SLRC-2025/blob/4842cfc784dcc02e9f140cdeff685e1812fac05c/490317173_1075838957913589_4994344122486557718_n%202.JPG)
+
+![image alt](https://github.com/BinethGeesara/Autonomous-Robot-SLRC-2025/blob/4842cfc784dcc02e9f140cdeff685e1812fac05c/490292966_1075838934580258_6176114214731787442_n.JPG)
+
+[![Watch the video]([https://img.youtube.com/vi/9nkfAn1ZH9s/maxresdefault.jpg)](https://youtu.be/9nkfAn1ZH9s](https://youtu.be/4gBIOZLEmkE?si=PcPEaUMKO9EJdOfn))
+
