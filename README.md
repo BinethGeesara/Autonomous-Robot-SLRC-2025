@@ -30,7 +30,7 @@ Team NUCLEO 5
 
 # Robot Performance
 
-[![Watch the video]([https://img.youtube.com/vi/9nkfAn1ZH9s/maxresdefault.jpg)](https://youtu.be/9nkfAn1ZH9s](https://youtu.be/4gBIOZLEmkE?si=PcPEaUMKO9EJdOfn))
+[![Watch the video]([)](https://youtu.be/4gBIOZLEmkE?si=HDfHNnSW6LAWgBbT))
 
 # ------------
 
